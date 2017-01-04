@@ -1,0 +1,16 @@
+{
+  "name": "telegram-mafia",
+  "version": "0.0.1",
+  "description": "Telegram chat bot for managing Mafia game sessions.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "side.weidner@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "lodash": "^4.17.4",
+    "telegraf": "^3.6.4"
+  }
+}
